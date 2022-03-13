@@ -1,0 +1,2 @@
+let CashFlowType = [{"id":1,"name":"근로 소득","isIncome":true},{"id":2,"name":"이자\/배당 소득","isIncome":true},{"id":3,"name":"임대 소득","isIncome":true},{"id":4,"name":"기타 소득","isIncome":true},{"id":5,"name":"대출","isIncome":true},{"id":6,"name":"고정 지출","isIncome":false},{"id":7,"name":"비고정 지출","isIncome":false},{"id":8,"name":"저축","isIncome":false},{"id":9,"name":"투자","isIncome":false},{"id":10,"name":"상환","isIncome":false}]
+export default CashFlowType;
